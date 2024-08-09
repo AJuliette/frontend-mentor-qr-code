@@ -3,9 +3,6 @@ module.exports = {
   content: ['./index.html'],
   theme: {
     extend: {
-      fontSize: {
-        paragraph: "15px",
-      },
     },
     fontFamily: {
       outfit: ["Outfit", "sans-serif"],
