@@ -10,3 +10,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Link
 
 [Live Site URL](https://phenomenal-kashata-55eb27.netlify.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
